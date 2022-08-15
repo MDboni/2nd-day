@@ -1,2 +1,2 @@
 # 2nd-day
-2wo diner kaj upload korlam
+ https://mdboni.github.io/2nd-day/
